@@ -1,3 +1,5 @@
+## Forked from window mover with my personal config for i3-style keybinds in Win10
+
 # window-mover
 
 Forked from [pmb6tz/windows-desktop-switcher](https://github.com/pmb6tz/windows-desktop-switcher) and [Depau/swin](https://github.com/Depau/swin), to minimally reproduce some desirable i3/sway-like behavior on Windows.
