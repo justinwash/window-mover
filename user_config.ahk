@@ -46,7 +46,7 @@
 ;#f::toggleMaximize()
 
 ; WSL -- create shortcut by dragging from start menu (can't be from a search result)
-#Enter::Run, C:\window-mover.git\Debian GNU-Linux
+#Enter::Run, "C:\Program Files\Cmder\Cmder.exe"
 
-; PowerShell
-#+Enter::Run, powershell
+; Brave
+#+Enter::Run, "C:\Program Files (x86)\BraveSoftware\Brave-Browser\Application\brave.exe"
